@@ -1,0 +1,71 @@
+C:\Users\KaufmannDw\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\bin\Debug\TPI.exe
+C:\Users\KaufmannDw\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\bin\Debug\TPI.pdb
+C:\Users\KaufmannDw\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KaufmannDw\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.Properties.Resources.resources
+C:\Users\KaufmannDw\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\KaufmannDw\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KaufmannDw\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.exe
+C:\Users\KaufmannDw\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.pdb
+C:\Users\KaufmannDw\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.Jeu.resources
+C:\Users\KaufmannDw\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\bin\Debug\TPI.exe.config
+C:\Users\KaufmannDw\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.Login.resources
+C:\Users\KaufmannDw\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.Parametres.resources
+C:\Users\KaufmannDw\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.Scores.resources
+C:\Users\KaufmannDw\Desktop\temp\Code\TPI\TPI\bin\Debug\error.png
+C:\Users\KaufmannDw\Desktop\temp\Code\TPI\TPI\bin\Debug\K8055D.dll
+C:\Users\KaufmannDw\Desktop\temp\Code\TPI\TPI\bin\Debug\TPI.mdb
+C:\Users\KaufmannDw\Desktop\temp\Code\TPI\TPI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KaufmannDw\Desktop\temp\Code\TPI\TPI\obj\x86\Debug\TPI.Jeu.resources
+C:\Users\KaufmannDw\Desktop\temp\Code\TPI\TPI\obj\x86\Debug\TPI.Login.resources
+C:\Users\KaufmannDw\Desktop\temp\Code\TPI\TPI\obj\x86\Debug\TPI.Parametres.resources
+C:\Users\KaufmannDw\Desktop\temp\Code\TPI\TPI\obj\x86\Debug\TPI.Properties.Resources.resources
+C:\Users\KaufmannDw\Desktop\temp\Code\TPI\TPI\obj\x86\Debug\TPI.Resultat.resources
+C:\Users\KaufmannDw\Desktop\temp\Code\TPI\TPI\obj\x86\Debug\TPI.Scores.resources
+C:\Users\KaufmannDw\Desktop\temp\Code\TPI\TPI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\KaufmannDw\Desktop\temp\Code\TPI\TPI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KaufmannDw\Desktop\temp\Code\TPI\TPI\bin\Debug\TPI.exe.config
+C:\Users\KaufmannDw\Desktop\temp\Code\TPI\TPI\bin\Debug\TPI.exe.manifest
+C:\Users\KaufmannDw\Desktop\temp\Code\TPI\TPI\bin\Debug\TPI.application
+C:\Users\KaufmannDw\Desktop\temp\Code\TPI\TPI\bin\Debug\TPI.exe
+C:\Users\KaufmannDw\Desktop\temp\Code\TPI\TPI\bin\Debug\TPI.pdb
+C:\Users\KaufmannDw\Desktop\temp\Code\TPI\TPI\obj\x86\Debug\TPI.TrustInfo.xml
+C:\Users\KaufmannDw\Desktop\temp\Code\TPI\TPI\obj\x86\Debug\TPI.exe.manifest
+C:\Users\KaufmannDw\Desktop\temp\Code\TPI\TPI\obj\x86\Debug\TPI.application
+C:\Users\KaufmannDw\Desktop\temp\Code\TPI\TPI\obj\x86\Debug\TPI.exe
+C:\Users\KaufmannDw\Desktop\temp\Code\TPI\TPI\obj\x86\Debug\TPI.pdb
+D:\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\bin\Debug\TPI.exe.config
+D:\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.exe
+D:\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.pdb
+D:\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\bin\Debug\error.png
+D:\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\bin\Debug\K8055D.dll
+D:\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\bin\Debug\TPI.mdb
+D:\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\bin\Debug\TPI.exe.manifest
+D:\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\bin\Debug\TPI.application
+D:\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\bin\Debug\TPI.exe
+D:\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\bin\Debug\TPI.pdb
+D:\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.csprojResolveAssemblyReference.cache
+D:\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.Jeu.resources
+D:\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.Login.resources
+D:\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.Parametres.resources
+D:\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.Properties.Resources.resources
+D:\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.Resultat.resources
+D:\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.Scores.resources
+D:\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.csproj.GenerateResource.Cache
+D:\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.TrustInfo.xml
+D:\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.exe.manifest
+D:\Desktop\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.application
+F:\TPI\TPI Dwenn Kaufmann\Code\TPI\TPI\bin\Debug\TPI.exe.config
+F:\TPI\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.exe
+F:\TPI\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.pdb
+C:\Users\kafei\Desktop\TPI\TPI Dwenn Kaufmann\Code\TPI\TPI\bin\Debug\TPI.exe.config
+C:\Users\kafei\Desktop\TPI\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.exe
+C:\Users\kafei\Desktop\TPI\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.pdb
+C:\Users\kafei\Desktop\TPI\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.csprojResolveAssemblyReference.cache
+C:\Users\kafei\Desktop\TPI\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.Jeu.resources
+C:\Users\kafei\Desktop\TPI\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.Login.resources
+C:\Users\kafei\Desktop\TPI\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.Parametres.resources
+C:\Users\kafei\Desktop\TPI\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.Properties.Resources.resources
+C:\Users\kafei\Desktop\TPI\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.Resultat.resources
+C:\Users\kafei\Desktop\TPI\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.Scores.resources
+C:\Users\kafei\Desktop\TPI\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.csproj.GenerateResource.Cache
+C:\Users\kafei\Desktop\TPI\TPI Dwenn Kaufmann\Code\TPI\TPI\obj\x86\Debug\TPI.TrustInfo.xml

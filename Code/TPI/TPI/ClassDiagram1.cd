@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TPI.Login">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gIAAAEBAECEBAGAAAACAAACCAICBAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPI.Parametres">
+    <Position X="2.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAACABCEUBAASAAAACAAgxCAAgAAAAAAAIAAA=</HashCode>
+      <FileName>Parametres.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPI.Jeu">
+    <Position X="7" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>sAAEgAAQYiAQgCIAAiCAAF6CAAqBAIAUIQAggACAGII=</HashCode>
+      <FileName>Jeu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPI.Resultat">
+    <Position X="5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AIAEgIAAACQABAQADACACAACAEAgAAAgAAAAAEAAAIA=</HashCode>
+      <FileName>Resultat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPI.Scores">
+    <Position X="9.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAEAGAgAEQEAoCAgIiKAAABAAAAAEJEAgQUAAA=</HashCode>
+      <FileName>Scores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPI.BaseDonnee">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BaseDonnee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPI.K8055">
+    <Position X="12.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ACAAIAwIAAAEAAKAAEAgAAAEAACIAADIAIAAAAEIEAA=</HashCode>
+      <FileName>K8055.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
